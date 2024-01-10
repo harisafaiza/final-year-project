@@ -1,5 +1,5 @@
 # final-year-project
-SUPPLEMENTARY TACTILE MATERIALS FOR VIB INDIVIDUALS USING IMAGE SEGMENTATION AND 2.5D PRINTING
+# SUPPLEMENTARY TACTILE MATERIALS FOR VIB INDIVIDUALS USING IMAGE SEGMENTATION AND 2.5D PRINTING
 
 This project aims to address the challenges faced by individuals with visual impairments by introducing an innovative approach to create tactile materials, enabling information acquisition through the sense of touch. The primary objectives include leveraging image segmentation and 2.5D printing technologies to transform natural images into tactile representations, fostering a rich and meaningful exploration of visual content. The project's scope encompasses the entire process, from image acquisition to user interface development, with a focus on maintaining essential details through image segmentation. The significance lies in enhancing accessibility, inclusivity, and engagement for visually impaired individuals, fostering independence and empowerment. Existing solutions often face limitations, and this project proposes an advanced methodology to overcome gaps, providing a more personalized and interactive tactile experience.
 
